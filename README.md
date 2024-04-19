@@ -1,6 +1,6 @@
 # contect
 
-A new Flutter project.
+tried to make Contact application phone album
 
 ## Getting Started
 
